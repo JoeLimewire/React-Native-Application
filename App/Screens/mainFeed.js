@@ -1,11 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
-
 import React, { useState } from 'react';
 import {
     SafeAreaView,
@@ -28,7 +20,7 @@ import {
 
 const App: () => React$Node = () => {
 
-    { /* This Manages the words in the Text Input */ }
+    { /* This Mmanages the words in the Text Input */ }
     const [entered, setEntered] = useState(''); { /* This manages the list at the bottom of the page */ }
     const [list, setList] = useState([]);
 
