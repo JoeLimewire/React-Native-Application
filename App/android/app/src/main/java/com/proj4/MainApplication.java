@@ -1,4 +1,4 @@
-package com.tproj2;
+package com.proj4;
 
 import android.app.Application;
 import android.content.Context;
