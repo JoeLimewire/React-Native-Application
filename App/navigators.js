@@ -18,6 +18,7 @@ const mainStack = createStackNavigator({
     }
 });
 
+//this.props.navigation.navigate("Login");
 
 export const Drawer = createDrawerNavigator({
 

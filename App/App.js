@@ -24,6 +24,8 @@ import {
     Colors,
 } from 'react-native/Libraries/NewAppScreen';
 
+import mainStack from './navigators';
+
 const App: () => React$Node = () => {
 
 
